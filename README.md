@@ -55,7 +55,6 @@ Comparative Result Analysis:
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/74531086/183858490-639e2126-38bc-4ff6-ac48-6762064a9bf1.png">
 
-Please feel free to ask me questions on abhiw963@gmail.com
 Cheers!!
 
 
